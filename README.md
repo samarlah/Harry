@@ -1,4 +1,2 @@
 # Harry
 maintain application
-
-Hello
